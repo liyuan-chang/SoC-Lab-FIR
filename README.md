@@ -24,6 +24,6 @@
 - Stream out Yn. The output rate depends on the FIR processing speed.
 
 ## Block diagram
-![block_diagram](https://github.com/liyuan-chang/SoC-Lab-FIR/tree/main/asset/block_diagram.png)
+![block_diagram](asset/block_diagram.png)
 
-![bram_control](https://github.com/liyuan-chang/SoC-Lab-FIR/tree/main/asset/bram_control.png)
+![bram_control](asset/bram_control.png)

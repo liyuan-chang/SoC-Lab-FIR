@@ -1,0 +1,98 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Tue Oct 17 08:09:03 2023
+[*]
+[dumpfile] "/home/ubuntu/Lab/Lab3_fir/lab-fir/fir/fir.vcd"
+[dumpfile_mtime] "Sat Oct 14 10:52:56 2023"
+[dumpfile_size] 4216406
+[savefile] "/home/ubuntu/Lab/Lab3_fir/lab-fir/fir/fir_waveform.gtkw"
+[timestart] 983900
+[size] 1848 911
+[pos] -1 -1
+*-14.883161 1865000 35000 355000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[markername] Ainput tap
+[markername] Bend input tap
+[treeopen] fir_tb.
+[sst_width] 233
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 252
+@28
+fir_tb.fir_DUT.axis_clk
+fir_tb.fir_DUT.axis_rst_n
+@24
+fir_tb.fir_DUT.axil_rstate_r[1:0]
+@200
+-
+@28
+fir_tb.fir_DUT.awvalid
+@22
+fir_tb.fir_DUT.awaddr[11:0]
+@28
+fir_tb.fir_DUT.awready
+fir_tb.fir_DUT.wvalid
+@420
+fir_tb.fir_DUT.wdata[31:0]
+@28
+fir_tb.fir_DUT.wready
+@200
+-
+@28
+fir_tb.fir_DUT.arvalid
+@22
+fir_tb.fir_DUT.araddr[11:0]
+@28
+fir_tb.fir_DUT.arready
+fir_tb.fir_DUT.rready
+@420
+fir_tb.fir_DUT.rdata[31:0]
+@28
+fir_tb.fir_DUT.rvalid
+@200
+-
+-ctrl reg
+@22
+fir_tb.fir_DUT.ap_ctrl_r[31:0]
+@25
+fir_tb.fir_DUT.data_len_r[31:0]
+@200
+-
+@22
+fir_tb.fir_DUT.tap_A[11:0]
+@420
+fir_tb.fir_DUT.tap_Do[31:0]
+@22
+fir_tb.fir_DUT.data_A[11:0]
+@420
+fir_tb.fir_DUT.data_Di[31:0]
+fir_tb.fir_DUT.data_Do[31:0]
+@200
+-
+@24
+fir_tb.fir_DUT.state_r[2:0]
+fir_tb.fir_DUT.num_data_r[3:0]
+fir_tb.fir_DUT.counter_r[3:0]
+@22
+fir_tb.fir_DUT.tap_addr_r[11:0]
+@420
+fir_tb.fir_DUT.psum_r[31:0]
+@200
+-
+@28
+fir_tb.fir_DUT.sm_tready
+fir_tb.fir_DUT.sm_tvalid
+@420
+fir_tb.fir_DUT.sm_tdata[31:0]
+@28
+fir_tb.fir_DUT.sm_tlast
+@200
+-
+@28
+fir_tb.fir_DUT.ss_tvalid
+@420
+fir_tb.fir_DUT.ss_tdata[31:0]
+@28
+fir_tb.fir_DUT.ss_tlast
+fir_tb.fir_DUT.ss_tready
+[pattern_trace] 1
+[pattern_trace] 0

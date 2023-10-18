@@ -24,6 +24,6 @@
 - Stream out Yn. The output rate depends on the FIR processing speed.
 
 ## Block diagram
-![block_diagram](asset/block_diagram.png)
+<img src="asset/block_diagram.png" width="80%" height="80%">
 
-![bram_control](asset/bram_control.png)
+<img src="asset/bram_control.png" width="80%" height="80%">
